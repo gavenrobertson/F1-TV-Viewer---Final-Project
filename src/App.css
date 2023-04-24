@@ -1,0 +1,87 @@
+/* Styles consistent across all pages */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.backdrop {
+    background-image: url("../src/assets/f1-german-gp-2004-michael-schu.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-size: 100%;
+    height: 110vh;
+}
+
+input,
+textarea {
+  border: 1px solid #ababab;
+  padding: 5px;
+  font-size: 18px;
+}
+
+a {
+  text-decoration: none;
+  color: #2b7bbe;
+}
+
+a:hover {
+  color: #af0034;
+}
+
+li > span {
+  display: none;
+}
+
+li:hover > span {
+  display: inline;
+}
+
+ul,
+li {
+  list-style: none;
+  font-size: 1.2rem;
+  margin-bottom: 8px;
+}
+
+button {
+  background-color: #2b7bbe;
+  color: #fff;
+  border: 2px solid #2b7bbe;
+  border-radius: 3px;
+  font-size: 18px;
+  font-weight: 300;
+  padding: 5px 10px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #71b5ed;
+}
+
+.main-heading {
+  font-size: 2.5rem;
+  text-align: center;
+}
+
+.links-container {
+  width: 55%;
+  margin: auto;
+  padding: 18px 32px;
+  background-color: white;
+  opacity: 0.75;
+}
+
+.racecar-icon {
+  width: 1.5rem;
+  position: relative;
+  top: 5px;
+  bottom: 0;
+  margin-left: 24px;
+}
+
+.lap-time-strings{
+  font-size: 28px;
+  font-weight: bolder;
+
+}

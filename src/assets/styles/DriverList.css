@@ -1,0 +1,18 @@
+.button-container {
+  width: 25%;
+  margin: auto;
+  text-align: center;
+}
+
+.driver-links-container {
+  width: 55%;
+  margin: auto;
+  border: 2px solid #cfcfc4;
+  border-radius: 6px;
+  padding: 18px 32px;
+  background-image: url("../f2004.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-size: 100%;
+  opacity: 0.75;
+}

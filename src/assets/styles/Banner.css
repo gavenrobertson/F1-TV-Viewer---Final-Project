@@ -1,0 +1,11 @@
+.banner {
+    width: 100%;
+    background-color: #ff232b;
+    padding: 16px;
+    margin-bottom: 16px;
+}
+
+
+.banner-text {
+    font-size: 3rem;
+}
