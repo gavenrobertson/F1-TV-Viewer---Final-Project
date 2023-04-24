@@ -8,7 +8,7 @@ but we decided on going with the Ergast API which can be found here:
 http://ergast.com/mrd/
 
 This API simply returns everysingle driver that has ever raced an F1 car,
-it returns a list of everyone season raced by that driver, also it returns
+it returns a list of every season raced by that driver, also it returns
 the name of the races as well as the lap count and live lap data.
 
 ## Some Functionality of our Application
@@ -25,7 +25,7 @@ This image shows our lap functionality, the way we designed this lap data to be
 displayed was to implement a counter that would tick and change the laps
 every 5 ish seconds and then display the realtime lap data it's self.
 
-Check it yourself by running our app
+Check it out yourself by running our app!!
 
 *Note that drivers prior to the mid 1960s won't have lap data due to F1 not tracking it during that time.*
 
