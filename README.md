@@ -25,7 +25,7 @@ This image shows our lap functionality, the way we designed this lap data to be
 displayed was to implement a counter that would tick and change the laps
 every 5 ish seconds and then display the realtime lap data it's self.
 
-Check it out yourself by running our app!!
+Check it out by running our app!!
 
 *Note that drivers prior to the mid 1960s won't have lap data due to F1 not tracking it during that time.*
 
